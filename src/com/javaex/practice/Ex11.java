@@ -45,7 +45,7 @@ public class Ex11 {
 			case "x":
 			case "y":
 			case "z": System.out.println("자음입니다.");
-					  break;
+					  break; 
 			default: System.out.println("다시 입력해주세요.");
 			break;
 		}
